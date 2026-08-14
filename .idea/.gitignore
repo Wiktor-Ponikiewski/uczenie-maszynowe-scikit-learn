@@ -1,0 +1,8 @@
+# Default ignored files
+/../../MNIST /.idea/shelf/
+/../../MNIST /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../MNIST /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../MNIST /.idea/dataSources/
+/../../MNIST /.idea/dataSources.local.xml
